@@ -28,3 +28,30 @@ SIVED is a SAR image dataset for vehicle detection using Ka, Ku, and X bands of 
 - **File Structure** 
 
   ![](filestruc.jpg)
+  
+  ## Cite
+If you feel the dataset is useful, please cite as the following format.
+
+@Article{rs15112825,
+
+AUTHOR = {Lin, Xin and Zhang, Bo and Wu, Fan and Wang, Chao and Yang, Yali and Chen, Huiqin},
+
+TITLE = {SIVED: A SAR Image Dataset for Vehicle Detection Based on Rotatable Bounding Box},
+
+JOURNAL = {Remote Sensing},
+
+VOLUME = {15},
+
+YEAR = {2023},
+
+NUMBER = {11},
+
+ARTICLE-NUMBER = {2825},
+
+URL = { https://www.mdpi.com/2072-4292/15/11/2825 },
+
+ISSN = {2072-4292},
+
+DOI = {10.3390/rs15112825}
+
+}
