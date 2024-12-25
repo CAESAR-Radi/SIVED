@@ -2,6 +2,10 @@
 ![](cover.png)
 ## Introduction
 SIVED is a SAR image dataset for vehicle detection using Ka, Ku, and X bands of data. Rotatable bounding box annotations were employed to improve positioning accuracy.
+## Download
+You can download the dataset in two ways<br>
+You can download the dataset from [Google Drive](https://drive.google.com/drive/folders/1ntqNSMQqMwu8RE4uK2z632cMQEi4yid6?usp=drive_link).<br>
+You can download the dataset from [Baidu Netdisk](https://pan.baidu.com/s/1zCkCAunf8t-jAoWjH8p6-Q?pwd=megp)
 ## Baic Information
 - **Raw Data**
 
